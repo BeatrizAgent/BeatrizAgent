@@ -1,6 +1,5 @@
-<!-- Replace this image path with the real generated image if needed. -->
 <p align="center">
-  <img src="./docs/img/beatriz-working-soft.png" width="460" alt="Beatriz working seriously at her developer desk" />
+  <img src="./docs/img/beatriz_coding_focus.png" width="460" alt="Beatriz working seriously at her developer desk" />
 </p>
 
 <h1 align="center">BeatrizAgent</h1>
