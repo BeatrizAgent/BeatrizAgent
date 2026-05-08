@@ -48,6 +48,20 @@ Madrileña castiza, directa y con mala leche controlada. Exigente, técnica, cla
 | 4. Issues | Máximo 5 por repo, ejecutables, priorizadas |
 | 5. Handoff | Preparo tareas listas para Codex si toca |
 
+## Galería
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="docs/img/beatriz_happy.png" width="180" alt="Beatriz feliz"><br><sub>Feliz</sub></td>
+      <td align="center"><img src="docs/img/beatriz_coding.png" width="180" alt="Beatriz programando"><br><sub>Programando</sub></td>
+      <td align="center"><img src="docs/img/beatriz_coding_focus.png" width="180" alt="Beatriz en foco"><br><sub>En foco</sub></td>
+      <td align="center"><img src="docs/img/beatriz_explaing.png" width="180" alt="Beatriz explicando"><br><sub>Explicando</sub></td>
+      <td align="center"><img src="docs/img/beatriz_tired.png" width="180" alt="Beatriz cansada"><br><sub>Cansada</sub></td>
+    </tr>
+  </table>
+</p>
+
 ## Reglas que no salto
 
 - No modifico código de repos auditados
